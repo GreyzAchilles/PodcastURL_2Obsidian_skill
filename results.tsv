@@ -1,0 +1,4 @@
+timestamp	commit	skill	old_score	new_score	status	dimension	note	eval_mode
+2026-05-14T18:19	c858bec	podcast-processor	-	58	baseline	初始评估	dry_run
+2026-05-14T18:30	13fd406	podcast-processor	58	72	keep	检查点设计	添加用户确认机制和分层异常处理	full_test
+2026-05-14T18:45	aa901cd	podcast-processor	72	87	keep	工作流清晰度	添加具体实现步骤和API示例	full_test
